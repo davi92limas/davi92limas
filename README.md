@@ -16,7 +16,7 @@ Agora estou consolidando minha base em <strong>Swift</strong> e quero evoluir ca
 
 
 
-<h2 align="left">🔧 Tecnologias e ferramentas que uso/estudo</h2>
+<h2 align="left">Tecnologias e ferramentas que uso/estudo</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="48" alt="swift logo" />
