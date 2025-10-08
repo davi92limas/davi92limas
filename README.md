@@ -13,8 +13,6 @@ Minha experiência com <strong>UX/UI</strong> me ajuda a pensar em soluções si
 Atualmente estou consolidando minha base em <strong>Java e Spring</strong>, buscando evoluir na área de backend e construir aplicações robustas e escaláveis.  
 
 
-<h2 align="left">Tecnologias e ferramentas que uso/estudo</h2>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="java logo" />
   <img width="32" />
