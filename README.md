@@ -28,7 +28,7 @@ Meu foco é evoluir como desenvolvedor front-end e contribuir com times que valo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="vscode logo" />
 </div>
 
-<h2 align="left">🚀 Tecnologias & Ferramentas</h2>
+<h2 align="left">Tecnologias & Ferramentas</h2>
 
 - **Linguagens:** JavaScript (ES6+), TypeScript, Node.js  
 - **Libs & Frameworks:** React, React Router, React Query, Material UI, Tailwind, React Hook Form, Yup  
