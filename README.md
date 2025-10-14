@@ -1,4 +1,4 @@
-<h1 align="left">👋 Olá, eu sou o Davi</h1>
+<h1 align="left">Olá, eu sou o Davi</h1>
 
 Desenvolvedor Front-end com foco em **React**, **TypeScript** e **Node.js**.  
 Busco criar interfaces performáticas e acessíveis, aplicando **boas práticas de código**, **componentização**, e **testes automatizados**.  
