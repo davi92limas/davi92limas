@@ -3,7 +3,6 @@
 Sou **Desenvolvedor Back-end Java**, especializado em criar **APIs escaláveis, seguras e bem estruturadas com Spring Boot**.  
 Trabalho sempre com foco em **performance, organização, testes e arquitetura limpa**.
 
----
 
 <h2 align="left">💡 Sobre mim</h2>
 
@@ -11,7 +10,6 @@ Tenho **5 anos de experiência em UX/UI Design**, o que fortalece meu olhar para
 Hoje meu foco é **Java + Spring Boot**, desenvolvendo REST APIs, integrações com bancos SQL, serviços assíncronos e automações.  
 Domino **Spring Data JPA**, **Spring Security**, **Hibernate**, **Docker**, **PostgreSQL**, mensageria e boas práticas como **SOLID**, **DDD** e **Clean Architecture**.
 
----
 
 <h2 align="left">🛠️ Tecnologias & Ferramentas</h2>
 
@@ -34,9 +32,8 @@ JUnit, Mockito
 SOLID, DDD, Clean Architecture  
 
 **Extras:**  
-RabbitMQ, Swagger/OpenAPI  
+RabbitMQ, Swagger  
 
----
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="java logo" />
@@ -51,8 +48,6 @@ RabbitMQ, Swagger/OpenAPI
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="48" alt="intellij logo" />
 </div>
-
----
 
 <h3 align="left">📫 Onde me encontrar</h3>
 
