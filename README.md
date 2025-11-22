@@ -53,4 +53,3 @@ RabbitMQ, Swagger
 
 📧 **davi92limas@gmail.com**  
 💼 [**LinkedIn – Davi Limas**](https://www.linkedin.com/in/davilimas/)  
-🐙 [**GitHub – @davilimas**](https://github.com/davilimas)
