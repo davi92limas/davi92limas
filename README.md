@@ -1,5 +1,3 @@
-quero que vc altere este perfil para um dev java spring boot 
-
 <h1 align="left">👋 Olá, eu sou o Davi</h1>
 
 Sou **Desenvolvedor Full Stack** com foco em **TypeScript**, construindo aplicações modernas com **React** no front e **Node.js/NestJS** no back.  
@@ -26,6 +24,7 @@ Meu foco é seguir evoluindo como dev Full Stack e contribuir com times que valo
 **Boas práticas:** Clean Code, SOLID, DDD, arquitetura modular  
 **Metodologias:** Scrum, Kanban  
 
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="react logo" />
