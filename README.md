@@ -6,7 +6,6 @@ Sou **Desenvolvedor Full Stack** com foco em **TypeScript**, construindo aplica�
 Busco criar soluções performáticas, escaláveis e bem estruturadas, aplicando **boas práticas, testes e arquitetura limpa**.  
 Curioso por natureza, sempre explorando novas libs, frameworks e padrões pra entregar código cada vez melhor.
 
----
 
 <h2 align="left">💡 Sobre mim</h2>
 
@@ -16,7 +15,6 @@ Atualmente, trabalho com **React + TypeScript**, **NestJS**, **Prisma**, **Postg
 
 Meu foco é seguir evoluindo como dev Full Stack e contribuir com times que valorizam **qualidade, colaboração e melhoria contínua**.
 
----
 
 <h2 align="left">🛠️ Tecnologias & Ferramentas</h2>
 
@@ -28,7 +26,6 @@ Meu foco é seguir evoluindo como dev Full Stack e contribuir com times que valo
 **Boas práticas:** Clean Code, SOLID, DDD, arquitetura modular  
 **Metodologias:** Scrum, Kanban  
 
----
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="react logo" />
@@ -50,7 +47,6 @@ Meu foco é seguir evoluindo como dev Full Stack e contribuir com times que valo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="vscode logo" />
 </div>
 
----
 
 <h3 align="left">📫 Onde me encontrar</h3>
 
