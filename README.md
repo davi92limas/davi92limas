@@ -1,10 +1,8 @@
 <h1 align="left">Olá, eu sou o Davi</h1>
 
-Sou **Engenheiro de Software focado em Backend Java**, com uma trajetória consolidada de **7 anos no desenvolvimento de produtos digitais**. Minha experiência une a robustez técnica do ecossistema **Java/Spring** à visão estratégica de quem atuou por **5 anos como UX/UI e Product Designer**.
+Desenvolvedor Backend Java especializado em Spring, com um background de 5 anos em Product Design. Uno a solidez técnica na construção de APIs escaláveis à mentalidade orientada ao usuário, garantindo soluções bem arquitetadas, seguras e facilmente consumíveis. Meu objetivo é entregar valor de negócio através de código limpo e uma experiência de integração excepcional.  
 
-Esse combo me permite projetar **arquiteturas de sistemas e APIs escaláveis** que não são apenas tecnicamente sólidas, mas profundamente alinhadas à experiência do usuário e aos objetivos de negócio.
-
-Trabalho na construção de sistemas que **performam em produção**, focando em resiliência, código limpo e facilidade de manutenção.
+**Stacks: Java | Spring Boot | Spring Security | JWT | JPA/Hibernate | PostgreSQL | Docker | Testes Automatizados (JUnit, Mockito).**
 
 <h2 align="left">Sobre mim</h2>
 
