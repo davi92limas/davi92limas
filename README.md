@@ -2,14 +2,6 @@
 
 Desenvolvedor Backend Java especializado em Spring, com um background de 5 anos em Product Design. Uno a solidez técnica na construção de APIs escaláveis à mentalidade orientada ao usuário, garantindo soluções bem arquitetadas, seguras e facilmente consumíveis. Meu objetivo é entregar valor de negócio através de código limpo e uma experiência de integração excepcional.  
 
-<h2 align="left">Sobre mim</h2>
-
-Tenho uma forte mentalidade de **produto e negócio**, construída ao longo de meia década trabalhando próximo a stakeholders, métricas e usuários finais. Essa bagagem me permite entender o "porquê" por trás de cada linha de código.
-
-Atualmente, meu foco total está na **engenharia de backend**, criando aplicações robustas com **Java e Spring Boot**, aplicando boas práticas de arquitetura de microsserviços, performance de banco de dados e segurança.
-
-Minha base em design e front-end (React/Node) me ajuda a construir APIs que são **eficientes e fáceis de consumir**, conectando design, produto e engenharia para entregar soluções consistentes e sustentáveis em times multidisciplinares.
-
 <h2 align="left">Tecnologias & Ferramentas</h2>
 
 **Linguagens:** Java (Core, Streams), SQL, TypeScript, JavaScript  
